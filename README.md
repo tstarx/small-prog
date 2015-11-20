@@ -15,6 +15,8 @@ sort：由txt2englishword得到的输出文件排序。
 
 unique：由txt2englishword得到的文件排序和去除重复的单词。
 
+文件：a.txt和b.txt是今天下载的带有中文翻译单词文件。
+
 
 注：1. c format 是指经程序得到的输出文件可以被C程序正确读取。
        manf format 是为了方便阅读，文件一行只有10个单词。
